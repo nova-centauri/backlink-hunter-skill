@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backlink Hunter"
+  short_description: "Find and verify backlinks with safe outreach"
+  default_prompt: "Use $backlink-hunter to start the setup wizard for my target domain."
